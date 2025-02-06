@@ -187,7 +187,7 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Spring",
-          fontAwesomeClassname: "simple-icons:spring",
+          fontAwesomeClassname: "logos-java",
           style: {
             color: "#6DB33F",
           },
@@ -308,6 +308,15 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    {
+      title: "Spring Boot and Mircorservices",
+      subtitle: "Telusko",
+      logo_path: "telusko.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/3e970fe5fcd25381d33ec19336cc2d98485e820595b9a3f08ce29b8cc12baa5c?u=76870426",
+      alt_name: "Spring Boot",
+      color_code: "#fff",
+    },
     {
       title: "Learning Spring with Spring Boot",
       subtitle: "Frank P Moley III",
